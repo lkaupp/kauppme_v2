@@ -3,7 +3,7 @@ title: Successful defence of my PhD
 description: Defence of my PhD thesis
 slug: phd
 date: 2023-12-31 12:00:00+0000
-image: phd_photo.jpg
+image: phd_photo.jpeg
 categories:
     - Artificial Intelligence
 tags:
