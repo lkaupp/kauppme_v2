@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://www.github.com/lkaupp"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,26 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = "https://www.twitter.com/kaupp_me"
 
 [social.params]
 icon = "brand-twitter"
+
+
+[[social]]
+identifier = "x"
+name = "Research Gate"
+url = "https://www.researchgate.net/profile/Lukas_Kaupp"
+
+[social.params]
+icon = "fa-researchgate"
+
+[[social]]
+identifier = "y"
+name = "ORCID"
+url = "https://orcid.org/0000-0001-9411-6781"
+
+[social.params]
+icon = "fa-orcid"
+
+
