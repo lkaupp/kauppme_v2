@@ -2,7 +2,7 @@
 title: Opinion on late developements around Transfomers
 description: Opinion on late developements around Transfomers
 slug: research
-date: 2023-03-22 12:00:00+0000
+date: 2024-03-22 12:00:00+0000
 image: image.png
 categories:
     - Artificial Intelligence

@@ -2,7 +2,7 @@
 title: "Vortrag IHK Rhein-Main: GenAI - Generative Artificial Intelligence: Text, Bild, Audio - Ein Traum für die Automatisierung?"
 description: Vortrag IHK Rhein-Main
 slug: ihk
-date: 2023-02-15 12:00:00+0000
+date: 2024-02-15 12:00:00+0000
 image: image.png
 categories:
     - Artificial Intelligence

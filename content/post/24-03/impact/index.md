@@ -2,7 +2,7 @@
 title: "Impact Magazine Aires Article about Context-Aware Fault Diagnosis in Smart Manufacturing"
 description: Impact Magazine Aires Article about Context-Aware Fault Diagnosis in Smart Manufacturing
 slug: impact
-date: 2023-03-09 12:00:00+0000
+date: 2024-03-09 12:00:00+0000
 image: image.png
 categories:
     - Artificial Intelligence
