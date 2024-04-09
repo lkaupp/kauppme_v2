@@ -1,6 +1,6 @@
 ---
-title: Opinion on late developements around Transfomers
-description: Opinion on late developements around Transfomers
+title: Opinion on late developments around Transfomers
+description: It seems I'm not the only researcher who has doubts about the quality of claims made by late-seen startups...
 slug: research
 date: 2024-03-22 12:00:00+0000
 image: image.png

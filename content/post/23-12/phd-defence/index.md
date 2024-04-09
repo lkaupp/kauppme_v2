@@ -1,6 +1,6 @@
 ---
 title: Successful defence of my PhD
-description: Defence of my PhD thesis
+description: Yesterday, I successfully defended my thesis, "Context-Aware Fault Diagnosis in Smart Manufacturing"...
 slug: phd
 date: 2023-12-31 12:00:00+0000
 image: phd_photo.jpeg
