@@ -1,5 +1,5 @@
 ---
-title: Successful defence of my PhD
+title: Successfully defended of my PhD
 description: Yesterday, I successfully defended my thesis, "Context-Aware Fault Diagnosis in Smart Manufacturing"...
 slug: phd
 date: 2023-12-31 12:00:00+0000
