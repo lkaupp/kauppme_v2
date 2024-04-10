@@ -1,5 +1,5 @@
 ---
-title: Successfully defended of my PhD
+title: Successfully defended my PhD thesis
 description: Yesterday, I successfully defended my thesis, "Context-Aware Fault Diagnosis in Smart Manufacturing"...
 slug: phd
 date: 2023-12-31 12:00:00+0000
@@ -10,7 +10,6 @@ tags:
     - Artificial Intelligence
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-
 
 Yesterday, I successfully defended my thesis, "Context-Aware Fault Diagnosis in Smart Manufacturing". In my thesis, I developed an applied solution to the ever-longing fault diagnosis in smart factories to enable fault tracing and fault origin detection, leading the personnel and maintenance teams to reduce the average 129 mio $ unexpected downtime cost per smart factory per year. To reach my goal, I developed novel pre-processing techniques, advanced AI models, and novel visualization techniques to lead both user groups toward the origin of the fault, which defacto reduces unexpected downtime costs in case of a severe fault.
 
